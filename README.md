@@ -9,7 +9,6 @@ Clone this reposoitory
 
 ```
 git clone  https://github.com/flormich/pays-capital
-
 ```
 
 ## ✨️ Usage
@@ -17,12 +16,13 @@ Exercice
 
 ## 📺 [Demo]
 
+<br>
 <p align="center"
   
- ![logo](payscapital.git)
+ ![logo](paysCapital.gif)
  
 </p>
-
+<br>
 
 ## ©️ Copyright
 This project is under the MIT LICENSE
