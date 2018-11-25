@@ -19,7 +19,7 @@ Exercice
 <br>
 <p align="center"
   
- ![logo](paysCapital.gif)
+ ![logo](ressources/paysCapital.gif)
  
 </p>
 <br>
